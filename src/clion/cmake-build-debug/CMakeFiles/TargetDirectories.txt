@@ -1,0 +1,3 @@
+/Users/denis/code/c_project/c_student/src/clion/cmake-build-debug/CMakeFiles/clion.dir
+/Users/denis/code/c_project/c_student/src/clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/denis/code/c_project/c_student/src/clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
